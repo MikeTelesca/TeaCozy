@@ -49,3 +49,17 @@ nav a {
   color: seashell;
   text-decoration: underline;
 }
+
+/*MAIN SECTION*/
+
+main {
+  padding-top:69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+#mission{
+  background-image: url("./resources/images/img-mission-background.jpg");
+
+}
