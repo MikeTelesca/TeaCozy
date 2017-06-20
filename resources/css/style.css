@@ -59,7 +59,16 @@ main {
   margin: auto;
 }
 
-#mission{
-  background-image: url("./resources/images/img-mission-background.jpg");
+/*MISSION SECTION*/
 
+#mission{
+  height:700px;
+  background-image: url(../../resources/images/img-mission-background.jpg);
+  padding-top:70px;
+}
+
+#mission .content{
+  margin: auto;
+  background-color: black;
+  width: 100%;
 }
