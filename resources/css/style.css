@@ -10,6 +10,14 @@ body {
   text-align: center;
 }
 
+h2,
+h4 {
+  display: block;
+  margin: 0;
+  padding: 10px;
+}
+
+
 
 /*HEADER SECTION*/
 
@@ -75,19 +83,25 @@ main {
 
 /*FEATURED TEA SECTION*/
 
-#featuredtea {
-  height: 700px;
-  width: 1000px;
-  margin: auto;
-  padding-top: 70px;
-}
 
-#featuredtea .item {
-  padding: 5px;
+#featuredtea .content {
+display: block;
+width: 1000px;
+height: auto;
+margin: auto;
+padding-top: 70px;
 }
 
 .item img {
   height: 200px;
   margin: 10px
   display: block;
+  padding: 15px;
+}
+
+.item span {
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
 }
