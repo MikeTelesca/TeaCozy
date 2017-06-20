@@ -72,3 +72,22 @@ main {
   background-color: black;
   width: 100%;
 }
+
+/*FEATURED TEA SECTION*/
+
+#featuredtea {
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+#featuredtea .item {
+  padding: 5px;
+}
+
+.item img {
+  height: 200px;
+  margin: 10px
+  display: block;
+}
