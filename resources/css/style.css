@@ -133,7 +133,17 @@ padding-top: 70px;
   opacity: 1.0;
 }
 
+/*CONTACT SECTION*/
+#contact {
+  height: 200px;
+}
+#contact h5 {
+  display: block;
+  padding : 20px;
+}
 
+
+/*FOOTER SECTION*/
 
 footer h5 {
   text-align: left;
